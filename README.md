@@ -1,4 +1,4 @@
- <center> <h1> I DO CODE!</h1> </center>
+<h1 align=center> I DO CODE!</h1>
 
 <br><br><br><br>
 <img 
