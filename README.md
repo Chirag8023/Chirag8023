@@ -1,4 +1,4 @@
- <h1> I DO CODE!</h1>
+ <center> <h1> I DO CODE!</h1> </center>
 
 <br><br><br><br>
 <img 
