@@ -7,7 +7,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 src="https://img.shields.io/twitter/follow/Chirag8023?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
 /></a><a href="https://www.github.com/Chirag8023" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/Chirag8023?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
-
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=chirag8023.chirag8023)
 ### Skills
 
 
