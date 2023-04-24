@@ -29,6 +29,6 @@ src="https://img.shields.io/github/followers/Chirag8023?logo=github&style=for-th
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/Chirag8023"><img src="https://github-readme-stats.vercel.app/api?username=Chirag8023&show_icons=true&hide=stars,&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Chirag8023's GitHub stats" /></a>
+[![chirag8023's GitHub | Topics Over Time](https://stats.quine.sh/chirag8023/topics-over-time?theme=dark)](https://quine.sh)
 
-<a href="https://github.com/Chirag8023" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chirag8023&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+[![chirag8023's GitHub | Languages Over Time](https://stats.quine.sh/chirag8023/languages-over-time?theme=dark)](https://quine.sh)
