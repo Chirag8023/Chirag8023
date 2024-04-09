@@ -8,12 +8,3 @@ src="https://img.shields.io/twitter/follow/Chirag8023?logo=twitter&style=for-the
 /></a><a href="https://www.github.com/Chirag8023" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/Chirag8023?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=chirag8023.chirag8023)
-
-
-
-
-<b>My GitHub Stats</b>
-
-[![chirag8023's GitHub | Topics Over Time](https://stats.quine.sh/chirag8023/topics-over-time?theme=dark)](https://quine.sh)
-
-[![chirag8023's GitHub | Languages Over Time](https://stats.quine.sh/chirag8023/languages-over-time?theme=dark)](https://quine.sh)
