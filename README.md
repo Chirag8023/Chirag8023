@@ -1,4 +1,6 @@
 ![](https://github.com/Chirag8023/Chirag8023/blob/main/Hi.png)  
+
+
 # 💻 My Stack:
 ## Languages
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
@@ -22,3 +24,5 @@
 ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) 
 ![YAML](https://img.shields.io/badge/yaml-%23ffffff.svg?style=for-the-badge&logo=yaml&logoColor=151515) 
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) <br><hr>
+
+[![Chirag's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Chirag8023&theme=github-compact&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
