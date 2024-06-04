@@ -1,7 +1,7 @@
-![](https://github.com/Chirag8023/Chirag8023/blob/main/Hi.png)  
-# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand%20Light%20Skin%20Tone.png" alt="Waving Hand Light Skin Tone" width="100" height="100" /> Welcome to My Profile
+<table border=4><tr><th>
+<img src="https://raw.githubusercontent.com/Chirag8023/Chirag8023/main/Hi.png" />  
 
-# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Brain.png" alt="Brain" width="25" height="25" /> My Stack:
+# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Graduation%20Cap.png" width="40" height="40" /> My Stack:
 ## Languages
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) 
@@ -26,3 +26,5 @@
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) <br><hr>
 
 [![Chirag's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Chirag8023&theme=github-compact&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</th></tr></table>
