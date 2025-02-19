@@ -4,39 +4,39 @@
 
 # My Stack
 
-<img src="/img/Scratch.png" width=200 />
-<img src="/img/bash.png" width=200 />
-<img src="/img/Python.png" width=200 />
-<img src="/img/Java.png" width=200 />
-<img src="/img/PHP.png" width=200 />
-<img src="/img/C.png" width=200 />
-<img src="/img/C++.png" width=200 />
-<img src="/img/Node.js.png" width=200 />
+<img src="/img/Scratch.png" width=150 />
+<img src="/img/bash.png" width=150 />
+<img src="/img/Python.png" width=150 />
+<img src="/img/Java.png" width=150 />
+<img src="/img/PHP.png" width=150 />
+<img src="/img/C.png" width=150 />
+<img src="/img/C++.png" width=150 />
+<img src="/img/Node.js.png" width=150 />
 
 #
 
-<img src="/img/HTML.png" width=200 />
-<img src="/img/css.png" width=200 />
-<img src="/img/JavaScript.png" width=200 />
+<img src="/img/HTML.png" width=150 />
+<img src="/img/css.png" width=150 />
+<img src="/img/JavaScript.png" width=150 />
 
 # 
 
-<img src="/img/Git.png" width=200 />
-<img src="/img/GitHub 2.png" width=200 />
-<img src="/img/Gitlab.png" width=200 />
-<img src="/img/Netlify.png" width=200 />
+<img src="/img/Git.png" width=150 />
+<img src="/img/GitHub 2.png" width=150 />
+<img src="/img/Gitlab.png" width=150 />
+<img src="/img/Netlify.png" width=150 />
 
 #
 
-<img src="/img/Windows.png" width=200 />
-<img src="/img/Kali.png" width=200 />
+<img src="/img/Windows.png" width=150 />
+<img src="/img/Kali.png" width=150 />
 
 # 
 
-<img src="/img/Vim 1.png" width=200 />
-<img src="/img/Vscode 1.png" width=200 />
-<img src="/img/Notepad++.png" width=200 />
-<img src="/img/Sublime Text.png" width=200 />
+<img src="/img/Vim 1.png" width=150 />
+<img src="/img/Vscode 1.png" width=150 />
+<img src="/img/Notepad++.png" width=150 />
+<img src="/img/Sublime Text.png" width=150 />
 
 ---
 
