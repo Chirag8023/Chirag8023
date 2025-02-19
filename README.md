@@ -9,9 +9,6 @@
 <img src="/img/Python.png" width=150 />
 <img src="/img/Java.png" width=150 />
 <img src="/img/PHP.png" width=150 />
-<img src="/img/C.png" width=150 />
-<img src="/img/C++.png" width=150 />
-<img src="/img/Node.js.png" width=150 />
 
 #
 
