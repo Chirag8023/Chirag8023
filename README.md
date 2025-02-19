@@ -1,7 +1,8 @@
-<table border=4><tr><th>
-<img src="https://raw.githubusercontent.com/Chirag8023/Chirag8023/main/Hi.png" />  
+<img src="https://raw.githubusercontent.com/Chirag8023/Chirag8023/main/img/Hi.png" />  
 
-# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Books.png" width="40" height="40" /> My Stack:
+<table border=0><tr><th>
+
+# My Stack
 ## Languages
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) 
@@ -27,6 +28,7 @@
 ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) 
 ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) 
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) <br><hr>
+
 
 [![Chirag's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Chirag8023&theme=github-compact&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
