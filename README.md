@@ -1,5 +1,3 @@
-<img src="https://raw.githubusercontent.com/Chirag8023/Chirag8023/main/img/Hi.png" />  
-
 <table border=0><tr><th>
 
 # My Stack
