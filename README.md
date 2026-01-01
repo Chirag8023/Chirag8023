@@ -27,3 +27,13 @@ DM me on Twitter(X) @chirag8023 or just drop an email at chirag8023@gmail.com !
 visit blog for updates : chirag8023.netlify.app
 
 ```
+
+## Hall of Fame
+
+<table border="5">
+  <tr>
+    <td>
+      <img src="https://logos.bugcrowdusercontent.com/logos/e34e/ced8/462922dd/fe2d0bf28f7b56095470ca07d0421e95_1615217311496.jpeg" width="60">
+    </td>
+  </tr>
+</table>
