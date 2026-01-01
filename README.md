@@ -1,5 +1,5 @@
 ```
-$ curl https://raw.githubusercontent.com/Chirag8023/Chirag8023/refs/heads/main/README.md
+$ curl https://raw.githubusercontent.com/Chirag8023/Chirag8023/refs/heads/main/bio.md
 
 
    ________    _                     ___                         
