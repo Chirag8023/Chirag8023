@@ -16,7 +16,7 @@ Computer Science (2021-24)
 
 Been using computers since I was 5 - love repairing things (big fan of iFixit toolkits).
 
-Currently getting into web security and Linux (yes, i use Kali Linux).
+Currently getting into web security and Linux (no, i don't use Kali Linux).
 
 Got tired of virtual events, would love to attend DEFCON. (want to sponsor me? let's talk!)
 
