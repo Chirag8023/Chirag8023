@@ -12,5 +12,5 @@ $ curl https://raw.githubusercontent.com/Chirag8023/Chirag8023/refs/heads/main/R
 
 Security Researcher from India
 
-Email at chirag8023@gmail.com !
+Email at chirag8023 [@] gmail [.] com !
 ```
