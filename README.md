@@ -23,6 +23,4 @@ Got tired of virtual events, would love to attend DEFCON. (want to sponsor me? l
 Probably playing Skyrim or Fallout right now.
 
 DM me on Twitter(X) @chirag8023 or just drop an email at chirag8023@gmail.com !
-
-
 ```
