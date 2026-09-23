@@ -12,7 +12,5 @@ $ curl https://raw.githubusercontent.com/Chirag8023/Chirag8023/refs/heads/main/R
 
 Security Researcher from India
 
-Computer Science (2021-24)
-
-DM me on Twitter(X) @chirag8023 or just drop an email at chirag8023@gmail.com !
+Email at chirag8023@gmail.com !
 ```
