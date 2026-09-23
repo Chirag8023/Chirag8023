@@ -14,13 +14,5 @@ Security Researcher from India
 
 Computer Science (2021-24)
 
-Been using computers since I was 5 - love repairing things (big fan of iFixit toolkits).
-
-Currently getting into web security and Linux (no, i don't use Kali Linux).
-
-Got tired of virtual events, would love to attend DEFCON. (want to sponsor me? let's talk!)
-
-Probably playing Skyrim or Fallout right now.
-
 DM me on Twitter(X) @chirag8023 or just drop an email at chirag8023@gmail.com !
 ```
